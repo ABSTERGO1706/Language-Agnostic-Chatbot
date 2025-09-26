@@ -1,0 +1,40 @@
+{
+  "faqs": [
+    {
+      "intent": "Fee Query",
+      "response": "The last date for paying any outstanding fees is October 30th. Please pay at the main accounts office or through the online student portal."
+    },
+    {
+      "intent": "Scholarship Query",
+      "response": "The Merit Scholarship application deadline is November 15th. Submit it at the student services portal."
+    },
+    {
+      "intent": "Timetable Query",
+      "response": "The updated timetable is available on the university website's main page, under the 'Academics' section."
+    },
+    {
+      "intent": "Office Contact Query",
+      "response": "For unresolved queries, contact the Student Affairs Office at student.affairs@university.edu or call 555-123-4567."
+    },
+    {
+      "intent": "Attendance Policy",
+      "response": "A minimum of 75% attendance is required to be eligible for final exams. You can check your attendance status on the student portal."
+    },
+    {
+      "intent": "Library Services",
+      "response": "The library is open from 9 AM to 8 PM. You can issue up to 4 books at a time. Online resources and journals are accessible 24/7 through the library website."
+    },
+    {
+      "intent": "Hostel Accommodation",
+      "response": "Hostel room applications for the next semester will open on December 1st. Please apply through the accommodation section of the student portal."
+    },
+    {
+      "intent": "Certificate Request",
+      "response": "To request certificates like bonafide or transcripts, please fill out the form in the 'Requests' section of the student portal. It usually takes 3-5 working days."
+    },
+    {
+      "intent": "Fallback",
+      "response": "I'm sorry, I don't have information about that. For more complex questions, I recommend contacting the university's main information desk."
+    }
+  ]
+}

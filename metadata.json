@@ -1,0 +1,7 @@
+{
+  "name": "Language Agnostic Chatbot",
+  "description": "A dual-interface application featuring a student-facing chatbot and an admin-facing FAQ management dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
